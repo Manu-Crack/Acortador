@@ -1,2 +1,0 @@
-# Acortador
-AcortadorLink con AWS
